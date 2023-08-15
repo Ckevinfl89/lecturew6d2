@@ -1,0 +1,11 @@
+# Ignore the virtual environment
+venv/
+
+# also ignore the __pycache__
+__pycache__/
+
+# ignore the.vscode 
+# .vscode/
+
+# Hide our enviroment cariable in .env
+.env
